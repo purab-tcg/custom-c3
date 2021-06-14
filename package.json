@@ -6,7 +6,7 @@
   ],
   "bundleDependencies": false,
   "dependencies": {
-    "d32": "github:tcg-ui/d32"
+    "d32": "https://github.com/tcg-ui/d32.git"
   },
   "deprecated": false,
   "description": "Originally c3.js, customized/modified by Sandeep Kumar",
